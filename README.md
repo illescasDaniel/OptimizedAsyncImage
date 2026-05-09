@@ -19,7 +19,7 @@ If you load twenty 4K images into a scrolling `List` or `ScrollView`—even if y
 * 📉 **Physical Downsampling:** Generates lightweight images on background threads.
 * ⚡️ **Two-Tier Caching:** Uses `NSCache` for buttery-smooth scrolling, and the file system (`FileManager`) for persistent offline storage.
 * 🤝 **Drop-in Replacement:** Hooks directly into SwiftUI's `AsyncImagePhase`, meaning your existing switch statements work perfectly.
-* 📱 **Cross-Platform:** Supports iOS 15+, macOS 12+, tvOS 15+, and watchOS 8+.
+* 📱 **Cross-Platform:** Supports iOS 15+, macOS 14+, tvOS 15+, and watchOS 8+.
 
 ---
 
